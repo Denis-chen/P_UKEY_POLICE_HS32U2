@@ -1,5 +1,0 @@
----- printfsector Matches (4 in 2 files) ----
-Cos.c (e:\支付通\##ukey_police_hs32u2\ga_key\cos):void printfsector(U16 *sector_list)
-Cos.c (e:\支付通\##ukey_police_hs32u2\ga_key\cos):	//printfsector(sector_list);
-Cos.c (e:\支付通\##ukey_police_hs32u2\ga_key\cos):	printfsector(sector_list);
-Cos.h (e:\支付通\##ukey_police_hs32u2\ga_key\cos):void printfsector(unsigned short *sector_list);
